@@ -1,0 +1,2 @@
+#!/bin/sh
+java $JVM_OPTS -jar $MODULE_PREFIX/nibmg_module_files/modules_source/picard/v2.24.0/package/picard.jar "$@"
